@@ -27,7 +27,7 @@ Here is a recipe:
 #. Spoon oatmeal into bowl
 #. Add 1 Tbs of brown sugar
 
-:doc:`Check out this truth table for the AND operator </truth_table>`
+:doc:`Here's a truth table for the AND operator </truth_table>`
 
 Indices and tables
 ==================
